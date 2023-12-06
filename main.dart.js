@@ -58470,7 +58470,7 @@ A.mj.prototype={}
 A.RA.prototype={
 NF(a){$.a2r().n(0,this,a)}}
 A.x4.prototype={
-P(a){var s=null,r=A.a8G(s,"vazir",s),q=A.Ch("Portfolio",s,B.d2),p=A.fW(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),o=t.G
+P(a){var s=null,r=A.a8G(s,"vazir",s),q=A.Ch("0xFlutter",s,B.d2),p=A.fW(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),o=t.G
 return new A.qu(new A.rF(new A.oF(q,0,B.dh,new A.Gx(s,s,1/0,56),p,s),A.a8i(!0,new A.BW(A.a2P(A.a([A.hN(s,s,1/0),A.a2P(A.a([A.hN(s,s,1/0),A.hN(s,20,s),new A.xy(new A.lN("images/profile.jpg"),60,s),A.hN(s,20,s),A.jV(s,A.Ch("Reza - Flutter/Dart Developer",A.fW(s,s,B.i,s,s,s,s,s,s,s,s,18,s,s,B.fv,s,s,!0,s,s,s,s,s,s,s,s),B.eu),B.r,s,s,s,s,s,s,s,s,s,s),A.hN(s,30,s),A.jV(B.M,A.Ch("Blockchain Technology Reasearcher",A.fW(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.d2),B.r,s,s,s,s,s,s,s,s,s,s),A.hN(s,12,s),this.Qp(),A.hN(s,14,s),this.Qt()],o),B.cf,B.dR)],o),B.cf,B.dR),s),!0),B.j,A.jV(s,A.a8f(A.a([A.Ch("Copyright \xa9 0xflutter.xyz 2023",A.fW(s,s,B.i,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],o),B.cf,B.CH,B.h5),B.r,B.dh,s,s,s,50,s,s,s,s,s),s),r,!1,s)},
 Qt(){var s,r,q,p=null,o=["flutter","dart","react"],n=t.G,m=A.a([],n)
 for(s=0;s<3;++s){r=o[s]
